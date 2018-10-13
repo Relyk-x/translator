@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(name="google_translate",
       version="1.0",
-      description="Google Translate Python Interface",
-      author="Drew Silcock",
-      author_email="drew@drewsilcock.co.uk",
+      description="Sector Translate Python Interface",
+      author="Relyk-x",
+      author_email="regan.clack@outlook.com",
       packages=["google_translate"],
       )
